@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=flat-square)
-![Signal Processing](https://badgen.net/badge/skill/Signal%20Processing/teal)
+![Signal Processing](https://badgen.net/badge/skill/Signal%20Processing/red)
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-turaga/)
