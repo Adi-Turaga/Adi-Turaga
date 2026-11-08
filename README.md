@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🛠️ Skills
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL%20Design- blue?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL%20Design-blue?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
