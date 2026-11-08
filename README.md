@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey, I'm Aditya 👋
+I'm a Computer Engineering student at Penn State working on FPGA design, GPU acceleration, and ultrasound/photoacoustic imaging.
 
 <!--
 **Adi-Turaga/Adi-Turaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 Personal/Research Projects I'm currently working on ...
+- **GPU-accelerated** B-mode, Doppler, and photoacoustic imaging pipeline
+- Compact optical fiber holder for an ultrasound probe, designed to steer illumination for high-contrast photoacoustic imaging
+- Ethernet MAC parser in SystemVerilog (planned synthesis and physical design using an open-source ASIC flow)
+- RISC-V CPU in SystemVerilog w/ DSP accelerator
+
+⚡ I'm interested in ...
+- Medical device design at a systems level
+- Resource-efficient processor architectures, including RISC-V
+- GPU memory optimization
+- Design verification and AI-assisted verification workflows
+
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-turaga/)
