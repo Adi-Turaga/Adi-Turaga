@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - GPU memory optimization
 - Design verification and AI-assisted verification workflows
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-turaga/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-turaga/)
