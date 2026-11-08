@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### ⚡ I'm interested in ...
 - Medical device design at a systems level
+- Digital signal processing
 - Resource-efficient processor architectures, including RISC-V
 - GPU memory optimization
 - Design verification and AI-assisted verification workflows
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-blue?style=flat-square)
+![FPGA](https://img.shields.io/static/v1?label=&message=FPGA&color=0071C5&style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -41,6 +42,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=flat-square)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-teal?style=flat-square)
+![Signal Processing](https://img.shields.io/static/v1?label=&message=Signal%20Processing&color=00897B&style=flat-square)
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-turaga/)
